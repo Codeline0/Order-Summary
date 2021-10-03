@@ -11,5 +11,5 @@ Order summary card component challenge made with HTML5, SASS and BEM methodology
 
 ## Authors
 
-Challenge by [Frontend_Mentor](https://www.frontendmentor.io?ref=challenge)
+Challenge by [Frontend_Mentor](https://www.frontendmentor.io?ref=challenge)<br/>
 Marco Cámez - [Codeline0](https://github.com/Codeline0)
